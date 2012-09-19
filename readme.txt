@@ -8,7 +8,7 @@ Author URI: http://tech.halulu.org
 Tags: download, button, shortcode
 Requires at least: 3.0
 Tested up to: 3.4.2
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 
 Display CSS3 dwonload bottons by simple Shortcode.
 

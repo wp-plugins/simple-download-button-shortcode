@@ -4,7 +4,7 @@
  * Plugin URI: http://tech.halulu.org/?p=849
  * Author: <a href="http://www.halulu.tech/">Halulu</a>
  * Author URI: http://tech.halulu.org/?p=849
- * Version: 1.1
+ * Version: 1.1.1
  * Description:ショートコードでダウンロードボタンを表示。DLプログラム付きでソースコードや画像もダウンロードできます。Display CSS3 dwonload bottons by simple Shortcode. This plugin comes with a downloading program that let site visitors donwload source code and images, such as html, php and jpeg.
  */
 
